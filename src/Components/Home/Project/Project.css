@@ -1,0 +1,25 @@
+.project-photo img{
+    width: 500px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+
+.project-details-content::after{
+    content:  "";
+    display: block;
+    width: 200%;
+    height: 110%;
+    border-radius: 15px;
+    position: absolute;
+    background: rgb(36, 41, 73);
+    opacity: 0.25;
+    top: 0;
+}
+@media (max-width: 576px) { 
+    .project-details-content::after{
+        width: 0%;
+        height: 0%;
+    }
+}

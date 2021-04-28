@@ -1,0 +1,7 @@
+.testimonial {
+    margin-top: 50px;
+    /* height:350px; */
+    position:relative;
+    background-image: url('../../../image/testimonial.jpg');
+    background-size: cover;
+}

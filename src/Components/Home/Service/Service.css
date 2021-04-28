@@ -1,0 +1,9 @@
+.img-thumbnail {
+    opacity: 1;
+}
+.img-thumbnail:hover {
+    opacity: 0.5;
+                  transition: opacity .75s ease-in-out;
+                  -moz-transition: opacity .75s ease-in-out;
+                  -webkit-transition: opacity .75s ease-in-out;
+}
