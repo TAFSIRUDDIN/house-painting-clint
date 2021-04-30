@@ -9,7 +9,22 @@ Runs the website in the live :
 ### `Route is not work properly while I deploying in firebase`
 Open [https://house-painting-663f8.web.app/](https://house-painting-663f8.web.app/) to view it in the browser.
 
+### FEATURES
 
+Here you booked a service. You can see your service list. You can store your service in mongodb database. You can post new Service. you can also delete any service.
+User can give feedback .And It is visible in UI home page. 
+Hare you update users booking state.
+
+1. Selected as the top-performing intern in my organization by the
+technology team.
+2. It's fully authenticated by firebase. Admin and users see the different
+dashboards. Admin can add any services and users can give feedback.
+3. Admin can change order status. It also has Stripe payment method.
+4. This is developed by NodeJs, React, React-router, HTML/CSS, Bootstrap,
+and React-bootstrap.
+
+### NOTE
+You can not visit the Cheakout and order page without Sign in or Login.
 
 
 ### `WE USE THOSE SITE TO DEVELOPE THIS SITE `
@@ -38,14 +53,9 @@ Site Link: [https://fontawesome.com/](https://fontawesome.com/)
 Site Link: [https://www.mongodb.com/](https://www.mongodb.com/)
 
 
-### FEATURES
 
-Here you booked a service. You can see your service list. You can store your service in mongodb database. You can post new Service. you can also delete any service.
-User can give feedback .And It is visible in UI home page. 
-Hare you update users booking state.
 
-### NOTE
-You can not visit the Cheakout and order page without Sign in or Login.
+
 
 
 
